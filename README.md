@@ -1,6 +1,6 @@
 # 🏦 Smart Banking Suite – C++ Console Application
 
-Welcome to the Smart Banking Suite, a C++ console-based banking client management system developed as part of the **Programming Advices** training track by Dr. Mohamed Abou Hadhoud.  
+Welcome to the Smart Banking Suite, a C++ console-based banking client management system developed as part of the  [AbouHadhood Platform](https://programmingadvices.com/) training track by Dr. Mohamed Abou Hadhoud.  
 This project evolves through multiple versions, each enhancing functionality, usability, and code architecture.
 
 ---
