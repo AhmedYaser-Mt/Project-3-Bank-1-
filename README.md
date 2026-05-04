@@ -138,13 +138,17 @@ It shows how to take a real-world scenario and translate it into a structured, m
 
 ## 📦 Project Versions
 
-This project evolves across multiple extensions:
+This project is the base of a growing banking system that evolves across multiple extensions.
 
-| Version | Description | Key Additions |
+Each version lives in its **own dedicated repository** with its own full README.
+
+| Version | Repo | Key Additions |
 |---|---|---|
-| **Bank 1** *(this repo)* | Core client management system | CRUD operations, file persistence, clean architecture |
-| **Bank 1 — 1st Extension** | Account balance operations | Deposit, Withdraw, Total balance view |
-| **Bank 1 — 2nd Extension** | Role-based user system | User permissions, login, input validation |
+| **Bank 1** *(you are here)* | ← this repo | CRUD operations, file persistence, clean architecture |
+| **Bank 1 — 1st Extension** | *(separate repo)* | Deposit, Withdraw, Total balance view |
+| **Bank 1 — 2nd Extension** | *(separate repo)* | Role-based user permissions, login, input validation |
+
+> Each extension builds directly on top of the previous version — same system, growing responsibilities.
 
 ---
 
